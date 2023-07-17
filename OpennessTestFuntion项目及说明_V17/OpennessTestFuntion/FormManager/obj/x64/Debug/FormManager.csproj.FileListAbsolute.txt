@@ -1,0 +1,16 @@
+D:\OpennessTestFuntion\FormManager\bin\x64\Debug\FormManager.dll
+D:\OpennessTestFuntion\FormManager\bin\x64\Debug\FormManager.pdb
+D:\OpennessTestFuntion\FormManager\obj\x64\Debug\FormManager.csprojAssemblyReference.cache
+D:\OpennessTestFuntion\FormManager\obj\x64\Debug\FormManager.AddStations.resources
+D:\OpennessTestFuntion\FormManager\obj\x64\Debug\FormManager.AddStationTotal.resources
+D:\OpennessTestFuntion\FormManager\obj\x64\Debug\FormManager.CreateProject.resources
+D:\OpennessTestFuntion\FormManager\obj\x64\Debug\FormManager.CustomizationImport.resources
+D:\OpennessTestFuntion\FormManager\obj\x64\Debug\FormManager.DownLoad.resources
+D:\OpennessTestFuntion\FormManager\obj\x64\Debug\FormManager.FormPlcSimAD.resources
+D:\OpennessTestFuntion\FormManager\obj\x64\Debug\FormManager.ImportExport.resources
+D:\OpennessTestFuntion\FormManager\obj\x64\Debug\FormManager.ModuleImport.resources
+D:\OpennessTestFuntion\FormManager\obj\x64\Debug\FormManager.PlcTag.resources
+D:\OpennessTestFuntion\FormManager\obj\x64\Debug\FormManager.csproj.GenerateResource.cache
+D:\OpennessTestFuntion\FormManager\obj\x64\Debug\FormManager.csproj.CoreCompileInputs.cache
+D:\OpennessTestFuntion\FormManager\obj\x64\Debug\FormManager.dll
+D:\OpennessTestFuntion\FormManager\obj\x64\Debug\FormManager.pdb

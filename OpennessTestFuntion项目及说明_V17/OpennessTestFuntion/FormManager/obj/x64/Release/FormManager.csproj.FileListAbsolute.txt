@@ -1,0 +1,16 @@
+C:\Users\Siemens\Desktop\OpennessTestFuntion\FormManager\bin\x64\Release\FormManager.dll
+C:\Users\Siemens\Desktop\OpennessTestFuntion\FormManager\bin\x64\Release\FormManager.pdb
+C:\Users\Siemens\Desktop\OpennessTestFuntion\FormManager\obj\x64\Release\FormManager.csproj.AssemblyReference.cache
+C:\Users\Siemens\Desktop\OpennessTestFuntion\FormManager\obj\x64\Release\FormManager.AddStations.resources
+C:\Users\Siemens\Desktop\OpennessTestFuntion\FormManager\obj\x64\Release\FormManager.AddStationTotal.resources
+C:\Users\Siemens\Desktop\OpennessTestFuntion\FormManager\obj\x64\Release\FormManager.CreateProject.resources
+C:\Users\Siemens\Desktop\OpennessTestFuntion\FormManager\obj\x64\Release\FormManager.CustomizationImport.resources
+C:\Users\Siemens\Desktop\OpennessTestFuntion\FormManager\obj\x64\Release\FormManager.DownLoad.resources
+C:\Users\Siemens\Desktop\OpennessTestFuntion\FormManager\obj\x64\Release\FormManager.FormPlcSimAD.resources
+C:\Users\Siemens\Desktop\OpennessTestFuntion\FormManager\obj\x64\Release\FormManager.ImportExport.resources
+C:\Users\Siemens\Desktop\OpennessTestFuntion\FormManager\obj\x64\Release\FormManager.ModuleImport.resources
+C:\Users\Siemens\Desktop\OpennessTestFuntion\FormManager\obj\x64\Release\FormManager.PlcTag.resources
+C:\Users\Siemens\Desktop\OpennessTestFuntion\FormManager\obj\x64\Release\FormManager.csproj.GenerateResource.cache
+C:\Users\Siemens\Desktop\OpennessTestFuntion\FormManager\obj\x64\Release\FormManager.csproj.CoreCompileInputs.cache
+C:\Users\Siemens\Desktop\OpennessTestFuntion\FormManager\obj\x64\Release\FormManager.dll
+C:\Users\Siemens\Desktop\OpennessTestFuntion\FormManager\obj\x64\Release\FormManager.pdb

@@ -1,0 +1,8 @@
+D:\OpennessTestFuntion\PlcSimADManager\bin\Debug\PlcSimADManager.dll
+D:\OpennessTestFuntion\PlcSimADManager\bin\Debug\PlcSimADManager.pdb
+D:\OpennessTestFuntion\PlcSimADManager\bin\Debug\Siemens.Simatic.Simulation.Runtime.Api.x64.dll
+D:\OpennessTestFuntion\PlcSimADManager\obj\Debug\PlcSimADManager.csprojAssemblyReference.cache
+D:\OpennessTestFuntion\PlcSimADManager\obj\Debug\PlcSimADManager.csproj.CoreCompileInputs.cache
+D:\OpennessTestFuntion\PlcSimADManager\obj\Debug\PlcSimADManager.csproj.CopyComplete
+D:\OpennessTestFuntion\PlcSimADManager\obj\Debug\PlcSimADManager.dll
+D:\OpennessTestFuntion\PlcSimADManager\obj\Debug\PlcSimADManager.pdb

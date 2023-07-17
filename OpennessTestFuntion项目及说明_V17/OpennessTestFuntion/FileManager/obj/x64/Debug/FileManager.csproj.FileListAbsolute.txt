@@ -1,0 +1,6 @@
+D:\OpennessTestFuntion\FileManager\bin\x64\Debug\FileManager.dll
+D:\OpennessTestFuntion\FileManager\bin\x64\Debug\FileManager.pdb
+D:\OpennessTestFuntion\FileManager\obj\x64\Debug\FileManager.csproj.CoreCompileInputs.cache
+D:\OpennessTestFuntion\FileManager\obj\x64\Debug\FileManager.dll
+D:\OpennessTestFuntion\FileManager\obj\x64\Debug\FileManager.pdb
+D:\OpennessTestFuntion\FileManager\obj\x64\Debug\FileManager.csprojAssemblyReference.cache

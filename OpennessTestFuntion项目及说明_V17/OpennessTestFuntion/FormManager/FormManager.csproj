@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4EE27464-5D96-402D-BE0F-39E555384C0F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FormManager</RootNamespace>
+    <AssemblyName>FormManager</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Siemens.Engineering">
+      <HintPath>..\..\..\..\..\Program Files\Siemens\Automation\Portal V17\PublicAPI\V17\Siemens.Engineering.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Siemens.Engineering.Hmi">
+      <HintPath>..\..\..\..\..\Program Files\Siemens\Automation\Portal V17\PublicAPI\V17\Siemens.Engineering.Hmi.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddStations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddStations.Designer.cs">
+      <DependentUpon>AddStations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddStationTotal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddStationTotal.Designer.cs">
+      <DependentUpon>AddStationTotal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class1.cs" />
+    <Compile Include="CreateProject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateProject.Designer.cs">
+      <DependentUpon>CreateProject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomizationImport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomizationImport.Designer.cs">
+      <DependentUpon>CustomizationImport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DownLoad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DownLoad.Designer.cs">
+      <DependentUpon>DownLoad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPlcSimAD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPlcSimAD.Designer.cs">
+      <DependentUpon>FormPlcSimAD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImportExport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImportExport.Designer.cs">
+      <DependentUpon>ImportExport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModuleImport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModuleImport.Designer.cs">
+      <DependentUpon>ModuleImport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PlcTag.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PlcTag.Designer.cs">
+      <DependentUpon>PlcTag.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AddStations.resx">
+      <DependentUpon>AddStations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddStationTotal.resx">
+      <DependentUpon>AddStationTotal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateProject.resx">
+      <DependentUpon>CreateProject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomizationImport.resx">
+      <DependentUpon>CustomizationImport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DownLoad.resx">
+      <DependentUpon>DownLoad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPlcSimAD.resx">
+      <DependentUpon>FormPlcSimAD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImportExport.resx">
+      <DependentUpon>ImportExport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModuleImport.resx">
+      <DependentUpon>ModuleImport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PlcTag.resx">
+      <DependentUpon>PlcTag.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FileManager\FileManager.csproj">
+      <Project>{a8add5b6-ed22-40be-b415-b5028b7ff76d}</Project>
+      <Name>FileManager</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\FunctiongManager\FunctionManager.csproj">
+      <Project>{c54a4fe7-1edd-4398-b867-fb7b3a71dbbf}</Project>
+      <Name>FunctionManager</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\PlcSimADManager\PlcSimADManager.csproj">
+      <Project>{f7f114df-f8ae-4fd3-8921-4dec9f57c49b}</Project>
+      <Name>PlcSimADManager</Name>
+      <Private>False</Private>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,6 @@
+C:\Users\Siemens\Desktop\OpennessTestFuntion\FunctiongManager\bin\x64\Release\FunctiongManager.dll
+C:\Users\Siemens\Desktop\OpennessTestFuntion\FunctiongManager\bin\x64\Release\FunctiongManager.pdb
+C:\Users\Siemens\Desktop\OpennessTestFuntion\FunctiongManager\obj\x64\Release\FunctionManager.csproj.AssemblyReference.cache
+C:\Users\Siemens\Desktop\OpennessTestFuntion\FunctiongManager\obj\x64\Release\FunctionManager.csproj.CoreCompileInputs.cache
+C:\Users\Siemens\Desktop\OpennessTestFuntion\FunctiongManager\obj\x64\Release\FunctiongManager.dll
+C:\Users\Siemens\Desktop\OpennessTestFuntion\FunctiongManager\obj\x64\Release\FunctiongManager.pdb

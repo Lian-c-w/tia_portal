@@ -1,0 +1,6 @@
+C:\Users\Siemens\Desktop\OpennessTestFuntion\FileManager\bin\x64\Release\FileManager.dll
+C:\Users\Siemens\Desktop\OpennessTestFuntion\FileManager\bin\x64\Release\FileManager.pdb
+C:\Users\Siemens\Desktop\OpennessTestFuntion\FileManager\obj\x64\Release\FileManager.csproj.AssemblyReference.cache
+C:\Users\Siemens\Desktop\OpennessTestFuntion\FileManager\obj\x64\Release\FileManager.csproj.CoreCompileInputs.cache
+C:\Users\Siemens\Desktop\OpennessTestFuntion\FileManager\obj\x64\Release\FileManager.dll
+C:\Users\Siemens\Desktop\OpennessTestFuntion\FileManager\obj\x64\Release\FileManager.pdb

@@ -1,0 +1,6 @@
+D:\OpennessTestFuntion\FunctiongManager\bin\x64\Debug\FunctiongManager.dll
+D:\OpennessTestFuntion\FunctiongManager\bin\x64\Debug\FunctiongManager.pdb
+D:\OpennessTestFuntion\FunctiongManager\obj\x64\Debug\FunctionManager.csprojAssemblyReference.cache
+D:\OpennessTestFuntion\FunctiongManager\obj\x64\Debug\FunctionManager.csproj.CoreCompileInputs.cache
+D:\OpennessTestFuntion\FunctiongManager\obj\x64\Debug\FunctiongManager.dll
+D:\OpennessTestFuntion\FunctiongManager\obj\x64\Debug\FunctiongManager.pdb
